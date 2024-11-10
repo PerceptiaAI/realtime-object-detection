@@ -36,7 +36,7 @@ pip install torch opencv-python-headless Pillow
 
    ```bash
    git clone https://github.com/PerceptiaAI/realtime-object-detection.git
-   cd realtime-object-detection.git
+   cd realtime-object-detection
    ```
 
 2. **Run the application:**
